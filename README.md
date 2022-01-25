@@ -1,6 +1,7 @@
 # Welcome to Foundations of Computing for Biologists
 
 - Introductions
+- ##Let me do it
 
 - Syllabus Overview and Questions
 	- Assignments due Mondays each week.
